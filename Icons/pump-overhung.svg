@@ -1,0 +1,22 @@
+<svg width="513" height="512" viewBox="0 0 513 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.0390625 332L64.0391 332L64.0391 292L0.0390625 292L0.0390625 332Z" fill="#8E8E8E"/>
+<path d="M84.0391 376H316.039C327.039 376 336.039 367 336.039 356V268C336.039 257 327.039 248 316.039 248H84.0391C73.0391 248 64.0391 257 64.0391 268V356C64.0391 367 73.0391 376 84.0391 376Z" fill="#8E8E8E"/>
+<path d="M288.039 24L424.039 24L424.039 0L288.039 -6.10637e-09L288.039 24Z" fill="#8E8E8E"/>
+<path d="M304.039 128L408.039 128L408.039 24L304.039 24L304.039 128Z" fill="#8E8E8E"/>
+<path d="M440.039 384L512.039 384L512.039 240L440.039 240L440.039 384Z" fill="#8E8E8E"/>
+<path d="M480.039 408L512.039 408L512.039 216L480.039 216L480.039 408Z" fill="#8E8E8E"/>
+<path d="M304.039 512H408.039C421.239 512 432.039 501.2 432.039 488V136C432.039 122.8 421.239 112 408.039 112H304.039C290.839 112 280.039 122.8 280.039 136V488C280.039 501.2 290.839 512 304.039 512Z" fill="#8E8E8E"/>
+<path d="M400.039 192H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M400.039 232H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M392.039 272H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M384.039 312H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M392.039 352H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M400.039 392H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M400.039 432H312.039" stroke="white" stroke-width="16" stroke-miterlimit="10"/>
+<path d="M276.039 376V248" stroke="white" stroke-width="8" stroke-miterlimit="10"/>
+<path d="M436.039 384V240" stroke="white" stroke-width="8" stroke-miterlimit="10"/>
+<path d="M408.039 108H304.039" stroke="white" stroke-width="8" stroke-miterlimit="10"/>
+<path d="M60.0391 332V292" stroke="white" stroke-width="8" stroke-miterlimit="10"/>
+<path id="in" d="M4.53906 312C4.53906 311.724 4.76292 311.5 5.03906 311.5C5.3152 311.5 5.53906 311.724 5.53906 312C5.53906 312.276 5.3152 312.5 5.03906 312.5C4.76292 312.5 4.53906 312.276 4.53906 312Z" fill="#8E8E8E"/>
+<path id="out" d="M497.539 399C497.539 398.724 497.315 398.5 497.039 398.5C496.763 398.5 496.539 398.724 496.539 399C496.539 399.276 496.763 399.5 497.039 399.5C497.315 399.5 497.539 399.276 497.539 399Z" fill="#8E8E8E"/>
+</svg>
